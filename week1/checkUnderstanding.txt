@@ -1,0 +1,13 @@
+1. What is the DOM?
+Document Object Model - used to access specific HTML elements on a page. Tree
+structure of parent and child HTML elements.
+
+2. What is the difference between Imperative vs Declarative Programming?
+Imperative tells the computer HOW to do something. Declarative only tells it 
+WHAT to do.
+
+3. What is JSX - the syntax extension for JavaScript?
+Allows us to use HTML within JavaScript.
+
+4. What is the Babel interpreter?
+A compiler that transforms JSX into useable JavaScript.
