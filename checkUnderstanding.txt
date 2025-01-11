@@ -1,3 +1,4 @@
+Chapters 1-7
 1. What is the DOM?
 Document Object Model - used to access specific HTML elements on a page. Tree
 structure of parent and child HTML elements.
